@@ -1,0 +1,42 @@
+div{
+    margin: 10px;
+    padding: 10px;
+}
+h1{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body{
+  background-color: #c6f2c0;
+  text-align: center;
+}
+.button{
+  background-color: white;
+  fill-opacity: 100;
+}
+.button :hover{
+  box-shadow: 0 12px 16px 0 rgba(0,20,0),0 17px 50px 0 rgba(0, 20, 0);
+}
+img{
+  height: 125px;
+  width: 125px;
+  margin: 0px auto;
+}
+.smallimg{
+  height: 25px;
+  width: 25px;
+}
+#restartbutton{
+  background-color: yellow;
+  font-size: 200%;
+  font-family: fantasy;
+}
+
